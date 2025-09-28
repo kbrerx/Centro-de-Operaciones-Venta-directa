@@ -1,0 +1,11 @@
+Ignorar la carpeta de secretos de Streamlit
+.streamlit/
+
+Ignorar la carpeta del entorno virtual de Python
+venv/
+*.venv/
+pycache/
+
+Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
